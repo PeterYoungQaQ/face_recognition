@@ -8,4 +8,4 @@
 
 一些相关的数据可以从https://cloud.189.cn/t/3EJzAfVrEJNz 下载
 
-![](https://img.shields.io/static/v1?label=&message=谢谢大家啦！！&color=<>)
+![](https://img.shields.io/static/v1?label=&message=谢谢大家啦!!&color=<orange>)
