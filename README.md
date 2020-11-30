@@ -1,6 +1,6 @@
 # face_recognition
 
-[![](https://img.shields.io/badge/face-recognition-yellowgreen)]
+![](https://img.shields.io/badge/face-recognition-yellowgreen)
 
 这个仓库主要是用于人脸识别和检测功能，主要包括视频流人脸检测和识别
 
