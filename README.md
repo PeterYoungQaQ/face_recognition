@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Face-Recognition-yellowgreen.svg?style=flat&logo=appveyor)
 ![](https://img.shields.io/badge/LOVE-ZC-red.svg?style=flat&logo=appveyor)
-![](https://img.shields.io/static/v1?label=<LABEL>&message=<高级数字图像处理>&color=<green>
+![](https://img.shields.io/static/v1?label=<LABEL>&message=<高级数字图像处理>&color=<green>)
 
 这个仓库主要是用于人脸识别和检测功能，主要包括视频流人脸检测和识别
 
